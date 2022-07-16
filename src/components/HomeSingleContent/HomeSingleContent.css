@@ -1,0 +1,21 @@
+.image{
+    width: 100%;
+    border-radius: 2vh;
+    height: 80%;
+}
+.mainComp{
+    max-width: 20rem;
+    max-height: fit-content;
+    background: azure;
+    border-radius: 2vh;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.hostelName{
+    margin: .5em;
+}
+.starImage{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0;
+}

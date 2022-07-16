@@ -1,0 +1,21 @@
+.main{
+    margin-top: 5vh;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.suggestion{
+    display: flex;
+    justify-content: space-between;
+}
+.body{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: fit-content;
+    display: -webkit-box;
+    overflow: scroll;
+}
+.body::-webkit-scrollbar {
+    display: none;
+  }

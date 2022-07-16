@@ -1,0 +1,19 @@
+.ViewMorePageMainDiv{
+    margin: 5vh;
+    margin-top: 25vh;
+    margin-bottom: 0;
+}
+.ViewMorePageContent{
+    display: flex;
+}
+.ContentDetails{
+    width: 140vh;
+    margin: 2vw;
+}
+.ContentFacilities{
+    margin-top: 5vh;
+    width: 50vh;
+    border-radius: 2vh;
+    padding: 2vh;
+    background-color: #FFDBD9;;
+}

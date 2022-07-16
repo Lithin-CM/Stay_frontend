@@ -1,0 +1,14 @@
+.sugession{
+    width: fit-content;
+    height: 5vh;
+    background-color: #FFDBD9;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 1vw;
+}
+.sugession p{
+    margin: auto;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+}

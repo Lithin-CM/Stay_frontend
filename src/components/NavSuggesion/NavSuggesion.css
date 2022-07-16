@@ -1,0 +1,14 @@
+.NaveSuggestion{
+    display: -webkit-box;
+    overflow: scroll;
+    position: fixed;
+    z-index: 7;
+    width: 100%;
+    padding: 0.5em;
+    padding-left: 3vw;
+    top: 13vh;
+    background-color: rgb(236, 236, 236);
+  }
+  .NaveSuggestion::-webkit-scrollbar {
+    display: none;
+  }

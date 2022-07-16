@@ -1,0 +1,1 @@
+export const urlKey="https://res.cloudinary.com/lithin-stay/"

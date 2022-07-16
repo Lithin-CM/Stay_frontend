@@ -1,0 +1,22 @@
+.ReviewMainDiv{
+    margin-top: 5vh;
+    height: fit-content;
+    padding: 3vh;
+    padding-bottom: 1vh;
+    border-radius: 2vh;
+    background-color: rgba(98, 141, 120, 0.739);
+}
+.ReviewHead{
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5vh;
+    padding-right: 10vh;
+}
+.reviews{
+    
+    height: 60vh;
+    overflow: scroll;
+}
+.reviews::-webkit-scrollbar {
+    display: none;
+  }
